@@ -9,4 +9,5 @@ Found a Bug/Glitch? Report it here by creating a issue.
 # Requests?
 Create issue here and title it "Request" then list your request.
 # Currently Working On:
-1: Config.yml | To Make It Easier To Edit.
+1: config.yml | To Make It Easier To Edit.
+2: Particle's On Join | Basically Particle's On Join Option Which Later Can Be Turned On/Off From The config.yml.
